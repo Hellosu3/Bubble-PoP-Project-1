@@ -1,5 +1,8 @@
 # Bubble-PoP-Project-1
 
+Bubble Pop is a visually enticing and addictive multiplayer game inspired by the classic Bubble bobble arcade game. Your objective is to keep the bubbles from floating off the screen and beat the timer to achieve the highest score possible.
+
+
 wireframe: (https://cloud.protopie.io/p/d47f56780cf4e79d530ae904)
 
 -As a player I would like to see my score in a visible location, so I may keep track of my score  while playing
